@@ -1,0 +1,42 @@
+{
+    "title": "PLANTS Benchmark Dataset",
+    "creators": [
+        {
+            "name": "Vishal Pallagani",
+            "AI Institute": "University of South Carolina"
+        },
+        {
+            "name": "Biplav Srivastava",
+            "AI Institute": "University of South Carolina"
+        }
+    ],
+    "description": "This dataset includes planning tasks for summarization, including automated plans, recipes, and travel routes.",
+    "keywords": [
+        "planning tasks",
+        "summarization",
+        "automated plans",
+        "recipes",
+        "travel routes"
+    ],
+    "license": "CC BY 1.0",
+    "publication_date": "2024-06-04",
+    "contact": {
+        "name": "Vishal Pallagani",
+        "email": "vishalp@mailbox.sc.edu"
+    },
+    "version": "1.0.0",
+    "repository": "https://github.com/VishalPallagani/PLANTS-benchmark",
+    "doi": "10.5281/zenodo.11473814",
+    "related_identifiers": [
+        {
+            "identifier": "https://github.com/VishalPallagani/PLANTS-benchmark",
+            "relation": "isSupplementTo"
+        }
+    ],
+    "resources": [
+        {
+            "type": "Dataset",
+            "path": "https://github.com/VishalPallagani/PLANTS-benchmark/tree/main/benchmark-dataset"
+        }
+    ]
+}
