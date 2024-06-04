@@ -129,7 +129,7 @@ Yes, the dataset has been used for planning task summarization, which involves g
 
 ### Is there a repository that links to any or all papers or systems that use the dataset?
 
-Yes, the authors have created a [GitHub](https://github.com/ai4society/PLANTS-benchmark) repository to actively release information related to the task of plan summarization.
+Yes, the authors have created a [GitHub](https://github.com/VishalPallagani/PLANTS-benchmark) repository to actively release information related to the task of plan summarization.
 
 ### What (other) tasks could the dataset be used for?
 The dataset is only applicable for the task of plan summarization.
@@ -150,7 +150,8 @@ Yes, the dataset is open-sourced and available for research purposes. It is dist
 
 ### How will the dataset will be distributed (e.g., tarball on website, API, GitHub)?
 
-_Does the dataset have a digital object identifier (DOI)?_
+The dataset is distributed on GitHub at [GitHub](https://github.com/VishalPallagani/PLANTS-benchmark) and is available for research purposes. It is also archived and citable with a DOI through Zenodo: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12345678.svg)]().
+
 
 ### When will the dataset be distributed?
 
