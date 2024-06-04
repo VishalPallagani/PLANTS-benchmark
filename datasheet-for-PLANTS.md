@@ -109,11 +109,6 @@ No.
 
 ## Preprocessing/cleaning/labeling
 
-_The questions in this section are intended to provide dataset consumers with the information
-they need to determine whether the “raw” data has been processed in ways that are compatible
-with their chosen tasks. For example, text that has been converted into a “bag-of-words” is
-not suitable for tasks involving word order._
-
 ### Was any preprocessing/cleaning/labeling of the data done (e.g., discretization or bucketing, tokenization, part-of-speech tagging, SIFT feature extraction, removal of instances, processing of missing values)?
 
 Multiple plans that achieve a common goal are represented as a list of lists. No additional preprocessing, cleaning, or labeling of the text data was performed as it was not necessary for our purposes.
@@ -134,29 +129,24 @@ Yes, the dataset has been used for planning task summarization, which involves g
 
 ### Is there a repository that links to any or all papers or systems that use the dataset?
 
-Yes, the authors have created a (Github)[https://github.com/ai4society/PLANTS-benchmark] repository to actively release information related to the task of plan summarization - 
+Yes, the authors have created a [GitHub](https://github.com/ai4society/PLANTS-benchmark) repository to actively release information related to the task of plan summarization.
 
 ### What (other) tasks could the dataset be used for?
+The dataset is only applicable for the task of plan summarization.
 
 ### Is there anything about the composition of the dataset or the way it was collected and preprocessed/cleaned/labeled that might impact future uses?
 
-_For example, is there anything that a future user might need to know to avoid uses that
-could result in unfair treatment of individuals or groups (e.g., stereotyping, quality of
-service issues) or other undesirable harms (e.g., financial harms, legal risks) If so, please
-provide a description. Is there anything a future user could do to mitigate these undesirable
-harms?_
+No.
 
 ### Are there tasks for which the dataset should not be used?
 
-_If so, please provide a description._
-
-### Any other comments?
+The dataset is not fit for any tasks other than plan summarization.
 
 ## Distribution
 
 ### Will the dataset be distributed to third parties outside of the entity (e.g., company, institution, organization) on behalf of which the dataset was created? 
 
-_If so, please provide a description._
+Yes, the dataset is open-sourced and available for research purposes. It is distributed under a Creative Commons (CC) license, allowing third parties to access and use it in accordance with the license terms.
 
 ### How will the dataset will be distributed (e.g., tarball on website, API, GitHub)?
 
