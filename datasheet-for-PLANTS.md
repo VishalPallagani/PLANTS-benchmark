@@ -150,7 +150,7 @@ Yes, the dataset is open-sourced and available for research purposes. It is dist
 
 ### How will the dataset will be distributed (e.g., tarball on website, API, GitHub)?
 
-The dataset is distributed on GitHub at [GitHub](https://github.com/VishalPallagani/PLANTS-benchmark) and is available for research purposes. It is also archived and citable with a DOI through Zenodo: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12345678.svg)]().
+The dataset is distributed on GitHub at [GitHub](https://github.com/VishalPallagani/PLANTS-benchmark) and is available for research purposes. It is also archived and citable with a DOI through Zenodo: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11473815.svg)](https://doi.org/10.5281/zenodo.11473815).
 
 ### When will the dataset be distributed?
 The dataset is open-sourced on June 04, 2024.
