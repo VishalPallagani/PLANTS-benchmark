@@ -2,5 +2,5 @@
 
 # PLANTS: A Benchmark Dataset for Planning Task Summarization
 
-![PLANTS](title-cover.png)
+![PLANTS](img/title-cover.png)
 
